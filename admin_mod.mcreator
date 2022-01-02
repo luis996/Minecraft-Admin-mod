@@ -1,10 +1,32 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "AdminSword",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "admin_sword"
+    },
+    {
+      "name": "AdminTools",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "admin_tools"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.admin_mod.admin_sword": "Admin Sword",
+      "itemGroup.tabadmin_tools": "Admin Tools"
+    }
   },
   "foldersRoot": {
     "name": "~",
@@ -13,7 +35,7 @@
   "workspaceSettings": {
     "modid": "admin_mod",
     "modName": "Admin mod",
-    "version": "1.0.0",
+    "version": "0.2.1",
     "description": "Adds tools for server administrators",
     "author": "Luis64_gamer, MCreator",
     "websiteURL": "https://mcreator.net",

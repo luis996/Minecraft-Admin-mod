@@ -1,0 +1,27 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "admin_sword",
+    "customModelName": "Normal",
+    "name": "Admin Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:AdminTools"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 71,
+    "efficiency": 100000.0,
+    "attackSpeed": 50.0,
+    "enchantability": 100000,
+    "damageVsEntity": 100000.0,
+    "usageCount": 100000,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}
