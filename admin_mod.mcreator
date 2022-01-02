@@ -12,9 +12,10 @@
   },
   "workspaceSettings": {
     "modid": "admin_mod",
-    "modName": "Admin Mod",
+    "modName": "Admin mod",
     "version": "1.0.0",
-    "author": "Willito, MCreator",
+    "description": "Adds tools for server administrators",
+    "author": "Luis64_gamer, MCreator",
     "websiteURL": "https://mcreator.net",
     "license": "Academic Free License v3.0",
     "disableForgeVersionCheck": true,
@@ -24,6 +25,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.adminmod",
     "lockBaseModFiles": false
   },

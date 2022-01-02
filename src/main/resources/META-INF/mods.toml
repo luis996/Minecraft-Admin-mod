@@ -4,10 +4,13 @@ loaderVersion="[31,)"
 [[mods]]
 modId="admin_mod"
 version="1.0.0"
-displayName="Admin Mod"
+displayName="Admin mod"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
-authors="Willito, MCreator"
+authors="Luis64_gamer, MCreator"
+description='''
+Adds tools for server administrators
+'''
 
 [[dependencies.admin_mod]]
     modId="minecraft"
